@@ -57,7 +57,7 @@
           "_anchor": "header1-0",
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "2",
+            "paddingBottom": "3",
             "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/beerpourpilsner-2000x1476-36.jpg",
