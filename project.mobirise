@@ -73,12 +73,19 @@
             "overlayOpacity": 0.35,
             "overlayColor": "#151515",
             "showTitle": true,
-            "showSubtitle": true,
-            "showButtons": false
+            "showSubtitle": false,
+            "showButtons": true
           },
-          "title": "<em>SpaceM</em> Page Builder",
+          "title": "<span style=\"font-weight: normal;\"><i>Swan on the Rideau</i></span>",
           "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Debitis id eligendi assumenda, cumque optio veniam eos perferendis molestias explicabo odit. Libero, suscipit. Quae praesentium, tempore minima quod tempora odio cumque nam mollitia dolores possimus porro omnis aliquid deserunt magnam non voluptates? Beatae quod illum ullam unde, quae, distinctio architecto modi.",
-          "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">learn more</a>"
+          "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">learn more</a>",
+          "_styles": {
+            "SPAN": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "30px"
+            }
+          }
         }
       ]
     }

@@ -1,5 +1,7 @@
+@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Arapey:400,400i);
 @import url(https://fonts.googleapis.com/css?family=Lato:400,300,700);
+
 
 
 
@@ -540,4 +542,8 @@ a:hover,
 .panel-heading a:hover span:after,
 .panel.active .panel-heading a span:after {
   background: #d901ed;
+}
+#header1-0 SPAN {
+  font-family: 'Oswald', sans-serif;
+  font-size: 30px;
 }
